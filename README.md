@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Ana Júlia
 
-**`Desenvolvedora Iniciante`**
+**`Programadora Iniciante`**
 
 🌱 Estudante de Análise e Desenvolvimento de Sistemas | 💻 Apaixonada por tecnologia
 
