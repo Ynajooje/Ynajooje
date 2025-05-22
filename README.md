@@ -8,9 +8,7 @@
 
 **`Programadora Iniciante`**
 
-🌱 Estudante de Análise e Desenvolvimento de Sistemas | 💻 Apaixonada por tecnologia
-
-Me chamo Larissa Ana Júlia, tenho 18 anos e sou de Brasília. Concluí o ensino médio no Sesi Sobradinho, com o curso técnico em eletrotécnica. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Ceub, sou apaixonada em tecnologia e estou melhorando minhas habilidades para me tornar uma programadora de excelência.
+Me chamo Ana Júlia, tenho 18 anos e sou de Brasília. Concluí o ensino médio no Sesi Sobradinho, com o curso técnico em eletrotécnica. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Ceub, sou apaixonada em tecnologia e estou melhorando minhas habilidades para me tornar uma programadora de excelência.
 
 ## 🚀 Sobre mim
 
