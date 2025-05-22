@@ -4,7 +4,7 @@
   </a>
 </div>
 
-# 👩🏻‍💻 Ana Júlia
+# Sou a Ana Júlia👩🏻‍💻 
 
 **`Programadora Iniciante`**
 
