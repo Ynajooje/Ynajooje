@@ -25,7 +25,7 @@ Me chamo Ana Júlia, tenho 18 anos e sou de Brasília. Concluí o ensino médio 
 - [LinkedIn](https://www.linkedin.com/in/ynaajooje/)
 - [Portfólio](https://sites.google.com/view/portfoliohubanajulia?usp=sharing)
 - [anajulia.alemar@gmail.com](mailto:anajulia.alemar@gmail.com)
-  
+
 ### 🌺 Linguagens e Tecnologias
 
 <img 
