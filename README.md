@@ -96,3 +96,5 @@ Me chamo Ana Júlia, tenho 18 anos e sou de Brasília. Concluí o ensino médio 
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ynaaju/ynaaju/output/github-contribution-grid-snake.svg">
 </picture>
 
+
+![Image](https://github.com/user-attachments/assets/cf939dbc-0915-4a5b-a791-2d406bfeb7e1)
