@@ -16,6 +16,10 @@ Me chamo Ana Júlia, tenho 18 anos e sou de Brasília. Concluí o ensino médio 
 - 🔭 Atualmente em busca de oportunidades na área de tecnologia.
 - 🌱 Aprendendo: JavaScript, SQL e GitHub.
 
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/cf939dbc-0915-4a5b-a791-2d406bfeb7e1" />
+</p>
+
 ## 📫 Como me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/ynaajooje/)
@@ -97,4 +101,4 @@ Me chamo Ana Júlia, tenho 18 anos e sou de Brasília. Concluí o ensino médio 
 </picture>
 
 
-![Image](https://github.com/user-attachments/assets/cf939dbc-0915-4a5b-a791-2d406bfeb7e1)
+
