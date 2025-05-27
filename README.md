@@ -10,7 +10,7 @@
 
 Me chamo Ana Júlia, tenho 18 anos e sou de Brasília. Concluí o ensino médio no Sesi Sobradinho, com o curso técnico em eletrotécnica. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Ceub, sou apaixonada em tecnologia e estou melhorando minhas habilidades para me tornar uma programadora de excelência.
 
-## 🚀 Sobre mim
+## 🌷 Sobre mim
 
 - 🎓 Formação: Ensino Técnico em Eletrotécnica e graduando em Análise e Desenvolvimento de Sistemas.  
 - 🔭 Atualmente em busca de oportunidades na área de tecnologia.
@@ -20,13 +20,13 @@ Me chamo Ana Júlia, tenho 18 anos e sou de Brasília. Concluí o ensino médio 
   <img src="https://github.com/user-attachments/assets/cf939dbc-0915-4a5b-a791-2d406bfeb7e1" />
 </p>
 
-## 📫 Como me encontrar
+## 🤔 Como me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/ynaajooje/)
 - [Portfólio](https://sites.google.com/view/portfoliohubanajulia?usp=sharing)
 - [anajulia.alemar@gmail.com](mailto:anajulia.alemar@gmail.com)
   
-### 🤖 Linguagens e Tecnologias
+### 🌺 Linguagens e Tecnologias
 
 <img 
     align="left" 
