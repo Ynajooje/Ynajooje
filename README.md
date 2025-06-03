@@ -22,7 +22,6 @@ Me chamo Ana Júlia, tenho 18 anos e sou de Brasília. Concluí o ensino médio 
 
 ## 🤔 Como me encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/ynaajooje/)
 - [Portfólio](https://sites.google.com/view/portfoliohubanajulia?usp=sharing)
 - [anajulia.alemar@gmail.com](mailto:anajulia.alemar@gmail.com)
 
@@ -78,22 +77,11 @@ Me chamo Ana Júlia, tenho 18 anos e sou de Brasília. Concluí o ensino médio 
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Ynajooje&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
-
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ynajooje&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<div align="center">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Ynajooje&show_icons=true&theme=chartreuse-dark"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ynajooje&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+</div>
   
 </p>
 
