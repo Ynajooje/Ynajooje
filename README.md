@@ -8,21 +8,21 @@
 
 **`Programadora Iniciante`**
 
-Me chamo Ana Júlia, tenho 18 anos e sou de Brasília. Concluí o ensino médio no Sesi Sobradinho, com o curso técnico em eletrotécnica. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Ceub, sou apaixonada em tecnologia e estou melhorando minhas habilidades para me tornar uma programadora de excelência.
+Me chamo Ana Júlia, tenho 18 anos e sou de Brasília. Concluí o ensino médio no Sesi Sobradinho, com o curso técnico em eletrotécnica. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Ceub.
+Estou inserida no mundo da tecnologia a 3 anos, participei do campeonato de robótica FLL em 2022 e cheguei até o campeonato nacional em 2023, caso queira saber mais acesse: [Portfólio](https://sites.google.com/view/portfoliohubanajulia?usp=sharing)
+Sou apaixonada em tecnologia e estou melhorando minhas habilidades para me tornar uma programadora de excelência.
 
 ## 🌷 Sobre mim
 
-- 🎓 Formação: Ensino Técnico em Eletrotécnica e graduando em Análise e Desenvolvimento de Sistemas.  
+- 🎓 Formação: Cursando 2º Semestre em Análise e Desenvolvimento de Sistemas.  
 - 🔭 Atualmente em busca de oportunidades na área de tecnologia.
-- 🌱 Aprendendo: JavaScript, SQL e GitHub.
+- 🌱 Aprendendo: JavaScript, SQL, HTML, Python e GitHub.
 
   <p align="center">
   <img src="https://github.com/user-attachments/assets/cf939dbc-0915-4a5b-a791-2d406bfeb7e1" />
 </p>
 
 ## 🤔 Como me encontrar
-
-- [Portfólio](https://sites.google.com/view/portfoliohubanajulia?usp=sharing)
 - [anajulia.alemar@gmail.com](mailto:anajulia.alemar@gmail.com)
 
 <a href="https://www.linkedin.com/in/ynaajooje/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a/>
