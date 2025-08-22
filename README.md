@@ -35,7 +35,7 @@ Sou apaixonada em tecnologia e estou melhorando minhas habilidades para me torna
     title="Python" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg"
 />
 <img 
     align="left" 
