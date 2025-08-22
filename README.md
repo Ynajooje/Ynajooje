@@ -33,9 +33,17 @@ Sou apaixonada em tecnologia e estou melhorando minhas habilidades para me torna
     align="left" 
     alt="Python"
     title="Python" 
-    width="35px" 
+    width="33px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 <img 
     align="left" 
