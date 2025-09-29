@@ -16,7 +16,7 @@ Sou apaixonada em tecnologia e estou melhorando minhas habilidades para me torna
 
 - 🎓 Formação: Cursando 2º Semestre em Análise e Desenvolvimento de Sistemas.  
 - 🔭 Atualmente em busca de oportunidades na área de tecnologia.
-- 🌱 Aprendendo: JavaScript, SQL, HTML, Python e GitHub.
+- 🌱 Aprendendo: JavaScript, SQL, HTML, CSS e Python.
 
   <p align="center">
   <img src="https://github.com/user-attachments/assets/cf939dbc-0915-4a5b-a791-2d406bfeb7e1" />
