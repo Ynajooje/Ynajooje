@@ -25,7 +25,7 @@ Sou apaixonada em tecnologia e estou melhorando minhas habilidades para me torna
 ## 🤔 Como me encontrar
 - [anajulia.alemar@gmail.com](mailto:anajulia.alemar@gmail.com)
 
-<a href="https://www.linkedin.com/in/ynaajooje/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a/>
+<a href="https://www.linkedin.com/in/anajuliaalemar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a/>
 
 ### 🌺 Linguagens e Tecnologias
 
